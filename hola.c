@@ -1,4 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("hola mudno\n");
+	printf("sera adios mudno\n");
+	printf("sera otro");
 }
